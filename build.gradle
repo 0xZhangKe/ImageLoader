@@ -2,6 +2,8 @@
 
 buildscript {
 
+    ext.support_version = '25.0.2'
+
     repositories {
         maven { url 'https://maven.google.com' }
         jcenter()

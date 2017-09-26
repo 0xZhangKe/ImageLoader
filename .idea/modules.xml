@@ -3,9 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ImageLoader.iml" filepath="$PROJECT_DIR$/ImageLoader.iml" />
+      <module fileurl="file://E:\my\ImageLoader\ImageLoader.iml" filepath="E:\my\ImageLoader\ImageLoader.iml" />
+      <module fileurl="file://E:\my\ImageLoader\library\ImageLoaderLib.iml" filepath="E:\my\ImageLoader\library\ImageLoaderLib.iml" />
+      <module fileurl="file://E:\my\ImageLoader\sample\app.iml" filepath="E:\my\ImageLoader\sample\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/ImageLoaderLib.iml" filepath="$PROJECT_DIR$/library/ImageLoaderLib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/app.iml" filepath="$PROJECT_DIR$/sample/app.iml" />
+      <module fileurl="file://E:\my\ImageLoader\common\common.iml" filepath="E:\my\ImageLoader\common\common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
     </modules>
   </component>
 </project>
